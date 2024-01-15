@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.458">
+    <testcase classname="As a user of the application i want to order a product" name="ordering a product" time="16.252">
+        <system-out><![CDATA[Given user is successfully naviaged to "https://jpetstore.aspectran.com/catalog/".passed
+When user select a  product in homepage.....................................passed
+And user select a produuct id...............................................passed
+When user adds product to cart..............................................passed
+And user update quantity and click on checkout..............................passed
+And user enters userName and Password.......................................passed
+When user click on login button.............................................passed
+When user enters payment and shipinng deatils...............................passed
+Then user can verify order submitted........................................passed
+And user can logout from the application....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
